@@ -1,0 +1,15 @@
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\bin\Debug\net6.0\odd_number_pyramid.exe
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\bin\Debug\net6.0\odd_number_pyramid.deps.json
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\bin\Debug\net6.0\odd_number_pyramid.runtimeconfig.json
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\bin\Debug\net6.0\odd_number_pyramid.dll
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\bin\Debug\net6.0\odd_number_pyramid.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.csproj.AssemblyReference.cache
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.AssemblyInfoInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.AssemblyInfo.cs
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.csproj.CoreCompileInputs.cache
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.dll
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\refint\odd_number_pyramid.dll
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.pdb
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\odd_number_pyramid.genruntimeconfig.cache
+C:\Users\goodt\OneDrive\Desktop\C#\odd_number_pyramid\odd_number_pyramid\obj\Debug\net6.0\ref\odd_number_pyramid.dll
